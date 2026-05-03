@@ -1,0 +1,14 @@
+# Robots.txt for botaiautomations.io
+# Allow all reputable crawlers full access
+
+User-agent: *
+Allow: /
+
+# Block AI scrapers if you want to (uncomment to enable)
+# User-agent: GPTBot
+# Disallow: /
+# User-agent: CCBot
+# Disallow: /
+
+# Sitemap location
+Sitemap: https://www.botaiautomations.io/sitemap.xml
